@@ -79,9 +79,11 @@ main #time-info .time-data {
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 0.2rem;
+  text-shadow: 0.1rem 0.1rem #000;
 }
 
 main #time-info .time-data span {
   font-size: 3rem;
   font-weight: bold;
+  text-shadow: 0.1rem 0.1rem #000;
 }
