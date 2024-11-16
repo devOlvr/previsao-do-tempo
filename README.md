@@ -3,6 +3,7 @@
 ### Esse projeto foi feito para a revisão e a compreensão de alguns componentes que estava estudando no momento. 
 <br/>
 ### Nesse projeto foram abordados os seguintes tópicos:
+<br/>
 #### Utilização de Typescript.
 #### Consumo de API.
 <br/>
