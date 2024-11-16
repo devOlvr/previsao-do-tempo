@@ -15,5 +15,5 @@
 <br/>
 
 ### Mais informações, entre em contato:
-✉️ dev.gabriel.teixeira@gmail.com  
+📩 dev.gabriel.teixeira@gmail.com  
 📞 (11) 99108-9555
