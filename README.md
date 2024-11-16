@@ -2,6 +2,7 @@
 
 ### Esse projeto foi feito para a revisão e a compreensão de alguns componentes que estava estudando no momento. Foram abordados o framework typescript e o consumo de uma API, para vizualização de dados dinâmicos.
 <br/>
+<br/>
 
 ### As tecnologia utilizadas foram:
 <div style="display: inline-block"><br/>
