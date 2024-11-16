@@ -4,8 +4,8 @@
 <br/>
 ### Nesse projeto foram abordados os seguintes tópicos:
 <br/>
-#### Utilização de Typescript.
-#### Consumo de API.
+### Utilização de Typescript.
+### Consumo de API.
 <br/>
 
 ### As tecnologia utilizadas foram:
