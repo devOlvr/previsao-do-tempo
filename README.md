@@ -11,6 +11,7 @@
     <img aling="center" alt="html" src="https://img.shields.io/badge/TypeScript-235284?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 <br/>
+<br/>
 
 ### Mais informações, entre em contato:
 dev.gabriel.teixeira@gmail.com  
