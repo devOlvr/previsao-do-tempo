@@ -1,11 +1,6 @@
 # Projeto Clima-Tempo
 
-### Esse projeto foi feito para a revisão e a compreensão de alguns componentes que estava estudando no momento. 
-<br/>
-### Nesse projeto foram abordados os seguintes tópicos:
-<br/>
-### Utilização de Typescript.
-### Consumo de API.
+### Esse projeto foi feito para a revisão e a compreensão de alguns componentes que estava estudando no momento. Foram abordados o framework typescript com o consumo de uma API, para vizualização de dados dinâmicos.
 <br/>
 
 ### As tecnologia utilizadas foram:
